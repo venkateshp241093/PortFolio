@@ -1,0 +1,45 @@
+.jumbotron{
+  background-color: #186C9A;
+  color: #fff;
+}
+.bg-grey{
+  background-color:#eee;
+}
+.about{
+  font-family: Copperplate Gothic Light, sans-serif;
+}
+.about1{
+  transition: box-shadow 0.5s;
+}
+.navbar {
+    margin-bottom: 0;
+    background-color: #186C9A;
+    z-index: 9999;
+    border: 0;
+    font-size: 12px !important;
+    line-height: 1.42857143 !important;
+    letter-spacing: 4px;
+    border-radius: 0;
+}
+
+.navbar li a, .navbar .navbar-brand {
+    color: #fff !important;
+}
+
+.navbar-nav li a:hover, .navbar-nav li.active a {
+    color: #186C9A !important;
+    background-color: #fff !important;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: transparent;
+    color: #fff !important;
+}
+footer .glyphicon {
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: #186C9A;
+}
+body {
+      position: relative;
+  }
